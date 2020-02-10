@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Metana Vegemask",
-    "currentPage": "aboutus.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -979,7 +979,7 @@
         }
       ]
     },
-    "aboutus.html": {
+    "about.html": {
       "settings": {
         "meta_descr": "This Page About Us",
         "title": "Tentang Kami",
