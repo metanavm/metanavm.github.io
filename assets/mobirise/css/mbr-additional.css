@@ -716,13 +716,13 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/masker-sayur-669x272.png");
 }
 .cid-rP2LhRaIxm .navbar {
-  background: #ffffff;
+  background: #232323;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rP2LhRaIxm .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-rP2LhRaIxm a {
   font-style: normal;
@@ -813,7 +813,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rP2LhRaIxm .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -884,7 +884,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 .cid-rP2LhRaIxm button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1120,7 +1120,7 @@ section.lazy-placeholder:after {
 }
 .cid-rP2LhRaIxm .nav-link:hover,
 .cid-rP2LhRaIxm .dropdown-item:hover {
-  color: #767676 !important;
+  color: #ffffff !important;
 }
 .cid-rP2LrpS5sJ {
   padding-top: 90px;
